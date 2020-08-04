@@ -11,7 +11,7 @@ meta:
 
 ---
 
-Takläggare Helsingborg är ett nystartat företag som erbjuder kompletta lösningar för alla slags takbyten. Vigör först en besiktning sedan läggs fram en plan och kostnadskalkyl, sedan utförs jobbet när vi är överrens.
+Takläggare Helsingborg är ett nystartat företag som erbjuder kompletta lösningar för alla slags takbyten. Vi gör först en besiktning sedan läggs fram en plan och kostnadskalkyl, sedan utförs jobbet när vi är överrens.
 Vårt mål är att kunden står i centrum, känner sig trygg och delaktig med beslut och arbetets gång, är nöjd och tillfreds med resultatet. 
 
 **Vill ditt företag synnas på denna sida?** Kontakta oss via [formuläret](/besiktning) idag!

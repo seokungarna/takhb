@@ -1,9 +1,9 @@
 ---
 meta:
   canonicalLink: 'https://xn--taklggarehelsingborg-ezb.nu'
-  description: 'Takläggare i Helingborg med lång erfarenhet. Kontakta oss för gratis besiktning idag! Ring eller maila, eller använd vårat formulär.'
+  description: 'Takläggare i Helsingborg med lång erfarenhet. Kontakta oss för gratis besiktning idag! Ring eller maila, eller använd vårat formulär.'
   noindex: false
-  title: 'Takläggarna Göteborg'
+  title: 'Takläggare Helsingborg'
 featuredImage: ''
 gallery:
   - alt: ''
