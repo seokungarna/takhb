@@ -63,7 +63,7 @@ export default ({ children, meta, title }) => {
             </Helmet>
 
             <Meta
-              googleTrackingId={googleTrackingId}
+              //googleTrackingId={googleTrackingId}
               absoluteImageUrl={
                 socialMediaCard &&
                 socialMediaCard.image &&
