@@ -39,3 +39,5 @@ Fakturamodellen som införded för ca. 10 år sedan gäller för husarbeten som 
 När du köper arbeten från oss betalar du bara 70 % av arbetskostnaden inklusive moms. Den resterande arbetskostnaden får vi från Skatteverket när du har betalat din faktura. I och med Skatteverkets utbetalning tillgodoförs du som köpare en preliminär skattereduktion som motsvarar 30 % av arbetskostnaden. Skatteverket meddelar dig att beslut om utbetalning till oss har gjorts samt hur stort belopp som har betalats ut.
 
 Vill ni veta mer om hur ROT-avdraget fungerar se [Skatteverkets sida](https://www.skatteverket.se/privat/fastigheterochbostad/rotochrutarbete.4.2e56d4ba1202f95012080002966.html "Skatteverkets sida"). 
+
+Välkommna till Takläggare Helsingborg !
