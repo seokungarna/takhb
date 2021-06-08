@@ -21,6 +21,7 @@ export default ({
         placeholder='Namn'
         name='name'
         required
+        autoComplete='off'
       />
     
     </label>

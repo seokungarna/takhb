@@ -59,7 +59,7 @@ export const ContactPageTemplate = ({
         </div>
 
         <div>
-          <FormSimple name="Köksrenovering Stockholm" />
+          <FormSimple name="takläggarehelsingborg.nu" />
         </div>
       </div>
     </section>
