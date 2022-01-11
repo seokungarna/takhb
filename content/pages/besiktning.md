@@ -2,7 +2,7 @@
 template: ContactPage
 slug: besiktning
 title: Boka en kostnadsfri besiktning
-featuredImage: ../images/tak2.jpg
+featuredImage: ../images/tak2.webp
 subtitle: Kontakta oss enkelt via formuläret nedan, så får du svar så snart som möjligt.
 address: 'Kungsgatan 22, Helsingborg'
 phone: 042 123 123 123 123 123

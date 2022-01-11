@@ -2,7 +2,7 @@
 template: HomePage
 slug: vara-tjanster
 title: Våra Tjänster
-featuredImage: '../images/tak23.jpg'
+featuredImage: '../images/tak23.webp'
 offertknapp: 'Boka gratis besiktning'
 subtitle: Information om våra tjänster.
 meta:

@@ -3,7 +3,7 @@ template: HomePage
 slug: ''
 offertknapp: 'Boka gratis besiktning'
 title: Takläggare Helsingborg
-featuredImage: './images/svarttak.jpg'
+featuredImage: './images/svarttak.webp'
 subtitle: 'Takläggarna i Helsingborg ger dig ett nytt tak av högsta kvalité! Kontakta oss för gratis besiktning idag! Ring, eller maila, eller använd vårat formulär.'
 meta:
   description: Takläggarna i Helsingborg ger dig ett nytt tak av högsta kvalité! Kontakta oss för gratis besiktning idag! Ring eller maila, eller använd vårat formulär.

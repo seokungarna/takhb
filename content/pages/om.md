@@ -3,7 +3,7 @@ template: HomePage
 slug: om
 title: Om oss
 offertknapp: "Kontakta oss"
-featuredImage: '../images/svarttak.jpg'
+featuredImage: '../images/svarttak.webp'
 subtitle: 'Vill ditt företag synnas här?'
 meta:
   description: Om oss.
